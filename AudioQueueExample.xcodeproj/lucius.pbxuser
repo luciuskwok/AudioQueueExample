@@ -1,0 +1,174 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* AudioQueueExampleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1004, 755}}";
+			sepNavSelRange = "{668, 0}";
+			sepNavVisRange = "{160, 788}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* AudioQueueExampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1004, 3923}}";
+			sepNavSelRange = "{1309, 18}";
+			sepNavVisRange = "{1215, 1646}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E0307913129FF4FE00868A28 /* AudioQueueExample */;
+		activeTarget = 8D1107260486CEB800E47090 /* AudioQueueExample */;
+		breakpoints = (
+		);
+		codeSenseManager = E0307928129FF51500868A28 /* Code sense */;
+		executables = (
+			E0307913129FF4FE00868A28 /* AudioQueueExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 312648925;
+			PBXWorkspaceStateSaveDate = 312648925;
+		};
+		perUserProjectItems = {
+			E001D52A12A2FCAD00AAADF3 /* PBXTextBookmark */ = E001D52A12A2FCAD00AAADF3 /* PBXTextBookmark */;
+			E0307B5512A00D0000868A28 /* PBXTextBookmark */ = E0307B5512A00D0000868A28 /* PBXTextBookmark */;
+			E0307B6812A00EAA00868A28 /* PBXTextBookmark */ = E0307B6812A00EAA00868A28 /* PBXTextBookmark */;
+			E0307B6E12A00FBD00868A28 /* PlistBookmark */ = E0307B6E12A00FBD00868A28 /* PlistBookmark */;
+			E0307B7012A00FBD00868A28 /* PBXTextBookmark */ = E0307B7012A00FBD00868A28 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E0307927129FF51500868A28 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* AudioQueueExample */ = {
+		activeExec = 0;
+		executables = (
+			E0307913129FF4FE00868A28 /* AudioQueueExample */,
+		);
+	};
+	E001D52A12A2FCAD00AAADF3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* AudioQueueExampleAppDelegate.m */;
+		name = "AudioQueueExampleAppDelegate.m: 47";
+		rLen = 18;
+		rLoc = 1309;
+		rType = 0;
+		vrLen = 1646;
+		vrLoc = 1215;
+	};
+	E0307913129FF4FE00868A28 /* AudioQueueExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AudioQueueExample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	E0307927129FF51500868A28 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E0307928129FF51500868A28 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E0307B5512A00D0000868A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E0307B5612A00D0000868A28 /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 0;
+	};
+	E0307B5612A00D0000868A28 /* main.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = main.m;
+		path = "/Users/lucius/_Work/iPhone/Tuna Pitch/main.m";
+		sourceTree = "<absolute>";
+	};
+	E0307B6812A00EAA00868A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* AudioQueueExampleAppDelegate.h */;
+		name = "AudioQueueExampleAppDelegate.h: 33";
+		rLen = 0;
+		rLoc = 668;
+		rType = 0;
+		vrLen = 788;
+		vrLoc = 160;
+	};
+	E0307B6E12A00FBD00868A28 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* AudioQueueExample-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/lucius/_Work/Intro to Core Audio/AudioQueueExample/AudioQueueExample-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	E0307B7012A00FBD00868A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* AudioQueueExampleAppDelegate.m */;
+		name = "AudioQueueExampleAppDelegate.m: 198";
+		rLen = 8;
+		rLoc = 5978;
+		rType = 0;
+		vrLen = 1399;
+		vrLoc = 0;
+	};
+}
